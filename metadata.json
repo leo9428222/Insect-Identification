@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BugScope - Premium Insect Identification Platform",
+  "description": "A sophisticated, conversion-optimized nature-inspired website for the BugScope insect identification ecosystem, featuring AI-powered tools, community feeds, and educational resources.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
